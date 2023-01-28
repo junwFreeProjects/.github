@@ -10,4 +10,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-junw demo profile
+As you can see, this is my personal organization. The organization is mainly used to post some of the various business systems I usually write out and share some ideas on how to deal with problems. Other than that, most of the notes for code learning are in my personal account. You can move to check it out if you are interested.
